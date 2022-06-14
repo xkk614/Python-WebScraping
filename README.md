@@ -1,2 +1,2 @@
-# Python-WebScraping
+# webscraping project
 This is a webscraping project where I scraped Job posting data on indeed and analyzed them
